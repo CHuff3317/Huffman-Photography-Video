@@ -1,0 +1,93 @@
+span {
+    color: white;
+}
+
+main {
+    background-color: lightgrey;
+}
+
+.row-featurette {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    padding: 40px;
+    padding-left: 150px;
+    background-color: grey;
+}
+
+.header {
+    margin-right: 180px;
+    height: 600px;
+    padding: 0;
+}
+
+.container-top {
+    margin-top: -150px;
+    margin-bottom: -150px;
+}
+
+.container-bottom {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.social-media {
+    margin-right: 100px;
+}
+
+.lead {
+    color: white;
+    margin-top: 10px;
+    padding-right: 20px;
+}
+
+.featurette-heading {
+    color: white;
+    margin-top: 40px;
+}
+
+.contact {
+    color: yellow;
+}
+
+.video {
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+.video-size {
+    margin-left: 230px;
+    
+}
+
+.headshot {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 300px;  
+    margin-left: 15px;
+}
+
+.form {
+    text-align: center;
+    border: 2px solid darkgrey;
+    background-color: #ddd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.boxes {
+    width: "100%";
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.CHlogo {
+    width: 50px;
+    height: 50px;
+    padding-right: 10px;
+}
+
